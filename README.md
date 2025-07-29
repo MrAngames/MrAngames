@@ -22,9 +22,9 @@ Welcome to my GitHub profile!
 - **DE**: Hyprland
 - **Terminal**: Fish Shell
 - **Languages**:  
-  *(Add your favorite programming languages here!)*
+  *Nix*
 - **Tools**:  
-  *(Add your preferred tools, editors, or frameworks!)*
+  *Neovim*
 
 ---
 
