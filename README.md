@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 - ⚡ Physics & math lover (8th grade graduate)
 - 🎮 Indie game aficionado  
   *Undertale, Deltarune, Celeste, To the Moon, Portal 2, OneShot, Milk Outside… just a few favorites!*
-- 📰 Follower of liberal ideas (Inspired by Екатерина Шульман & Михаил Кац)
+- 📰 Follower of liberal ideas
 - 😶‍🌫️ Introvert by nature
 
 ---
@@ -52,17 +52,3 @@ Welcome to my GitHub profile!
 > _“Stay determined.”_  
 > &mdash; UNDERTALE
 
----
-
-## 🚧 Work in Progress
-
-This README is just the beginning!  
-To make it truly yours, could you share:
-
-- **Your profession or what you do**
-- **Your top programming skills or technologies**
-- **Favorite/featured projects (with links?)**
-- **Any social links (Twitter, Telegram, personal site, etc.)**
-- **Other fun facts or achievements you want highlighted**
-
-Let me know and I'll refine your profile to perfection!
