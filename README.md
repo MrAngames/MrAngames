@@ -6,6 +6,7 @@ Welcome to my GitHub profile!
 
 ## 🧑 About Me
 
+- 14 y.o
 - 🚀 Linux enthusiast (NixOS + Hyprland power user)
 - 🐟 Fish shell devotee
 - ⚡ Physics & math lover (8th grade graduate)
@@ -32,7 +33,6 @@ Welcome to my GitHub profile!
 
 - Open-source software & customization
 - Indie games & Steam
-- Thoughtful discussions on politics and society
 - Mathematical puzzles & logic games
 
 ---
@@ -45,7 +45,7 @@ Welcome to my GitHub profile!
 
 ## 🌐 Connect & Explore
 
-- *(Add your social links or personal website here!)*
+- 💬 [Me in telegram](https://t.me/Mr_angames_me)
 
 ---
 
