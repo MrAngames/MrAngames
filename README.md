@@ -6,8 +6,8 @@ Welcome to my GitHub profile!
 
 ## 🧑 About Me
 
-- 14 y.o
-- 🚀 Linux enthusiast (NixOS + Hyprland power user)
+- 15 y.o
+- 🚀 Linux enthusiast (Arch + Hyprland power user)
 - 🐟 Fish shell devotee
 - ⚡ Physics & math lover (8th grade graduate)
 - 🎮 Indie game aficionado  
@@ -19,16 +19,26 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Tech Stack
 
-- **OS**: NixOS
+- **OS**: Arch Linux
 - **DE**: Hyprland
 - **Terminal**: Fish Shell
 - **Languages**:  
   *Nix*
+  *Python*
 - **Tools**:  
   *Neovim*
+  *Ranger*
+  *Bottom*
 
 ---
+## Used distro:
+- Ubuntu
+- Fedora
+- NixOS
+- Nyarch
+- Void Linux
 
+---
 ## 🎯 Interests
 
 - Open-source software & customization
