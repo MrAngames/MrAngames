@@ -39,21 +39,6 @@ Welcome to my GitHub profile!
 <img src="https://raw.githubusercontent.com/akirakani-kei/distro-icons/main/icons/void.png" alt="Void Linux" width="24" height="24"> <strong>Void Linux</strong>
 
 
-
-
-
-
-
-
-
-
----
-## 🎯 Interests
-
-- Open-source software & customization
-- Indie games & Steam
-- Mathematical puzzles & logic games
-
 ---
 
 ## 📈 GitHub Stats
