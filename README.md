@@ -32,11 +32,20 @@ Welcome to my GitHub profile!
 
 ---
 ## Used distro:
-- Ubuntu
-- Fedora
-- NixOS
-- Nyarch
-- Void Linux
+
+<img src="https://raw.githubusercontent.com/akirakani-kei/distro-icons/main/icons/ubuntu.png" alt="Ubuntu" width="24" height="24"> <strong>Ubuntu</strong>  
+<img src="https://raw.githubusercontent.com/akirakani-kei/distro-icons/main/icons/arch.png" alt="Arch" width="24" height="24"> <strong>Arch</strong>  
+<img src="https://raw.githubusercontent.com/akirakani-kei/distro-icons/main/icons/nixos.png" alt="NixOS" width="24" height="24"> <strong>NixOS</strong>  
+<img src="https://raw.githubusercontent.com/akirakani-kei/distro-icons/main/icons/void.png" alt="Void Linux" width="24" height="24"> <strong>Void Linux</strong>
+
+
+
+
+
+
+
+
+
 
 ---
 ## 🎯 Interests
