@@ -59,6 +59,6 @@ Welcome to my GitHub profile!
 
 ---
 
-> _“Stay determined.”_  
+> _“Despite everything it's still you.”_  
 > &mdash; UNDERTALE
 
