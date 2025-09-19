@@ -58,7 +58,7 @@ Welcome to my GitHub profile!
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrAngames&show_icons=true&hide_title=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrAngames&show_icons=true&hide_title=true&theme=tokyonight)
 
 ---
 
