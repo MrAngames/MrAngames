@@ -23,11 +23,11 @@ Welcome to my GitHub profile!
 - **DE**: Hyprland
 - **Terminal**: Fish Shell
 - **Languages**:  
-  *Nix*
+  *Nix*,
   *Python*
 - **Tools**:  
-  *Neovim*
-  *Ranger*
+  *Neovim*,
+  *Ranger*,
   *Bottom*
 
 ---
