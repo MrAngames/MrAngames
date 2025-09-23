@@ -27,8 +27,7 @@ Welcome to my GitHub profile!
   *Python*
 - **Tools**:  
   *Neovim*,
-  *Ranger*,
-  *Bottom*
+  *VSCode*
 
 ---
 ## Used distro:
