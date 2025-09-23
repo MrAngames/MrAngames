@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 - 🐟 Fish shell devotee
 - ⚡ Physics & math lover (8th grade graduate)
 - 🎮 Indie game aficionado  
-  *Undertale, Deltarune, Celeste, To the Moon, Portal 2, OneShot, Milk Outside… just a few favorites!*
+  *Undertale, Deltarune, Celeste, To the Moon, Portal 2, OneShot, Milk Outside…*
 - 📰 Follower of liberal ideas
 - 😶‍🌫️ Introvert by nature
 
@@ -21,6 +21,7 @@ Welcome to my GitHub profile!
 
 - **OS**: Arch Linux
 - **DE**: Hyprland
+- **Theme**: Catppuccin Macchiato
 - **Terminal**: Fish Shell
 - **Languages**:  
   *Nix*,
