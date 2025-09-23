@@ -33,7 +33,7 @@ Welcome to my GitHub profile!
 ---
 ## Used distro:
 
-<img src="https://raw.githubusercontent.com/akirakani-kei/distro-icons/main/icons/ubuntu.png" alt="Ubuntu" width="24" height="24"> <strong>Ubuntu</strong>  
+<img src="https://raw.githubusercontent.com/akirakani-kei/distro-icons/main/icons/ubuntu.png" alt="Ubuntu" width="24" height="24"> <strong> </strong>  
 <img src="https://raw.githubusercontent.com/akirakani-kei/distro-icons/main/icons/arch.png" alt="Arch" width="24" height="24"> <strong>Arch</strong>  
 <img src="https://raw.githubusercontent.com/akirakani-kei/distro-icons/main/icons/nixos.png" alt="NixOS" width="24" height="24"> <strong>NixOS</strong>  
 <img src="https://raw.githubusercontent.com/akirakani-kei/distro-icons/main/icons/void.png" alt="Void Linux" width="24" height="24"> <strong>Void Linux</strong>
@@ -41,15 +41,19 @@ Welcome to my GitHub profile!
 
 ---
 
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrAngames&show_icons=true&hide_title=true&theme=tokyonight)
 
 ---
 
-## 🌐 Connect & Explore
+## My socials:
 
-- 💬 [Me in telegram](https://t.me/Mr_angames_me)
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png?raw=true" alt="Telegram" width="24" height="24"> - <strong>[Telegram](https://t.me/Mr_Angames_me)</strong>  
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Steam.png?raw=true" alt="Telegram" width="24" height="24"> - <strong>[Steam](https://steamcommunity.com/id/MrAngames/)</strong>  
+
+
 
 ---
 
